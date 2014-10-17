@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ibn:home|Door43 (ibn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ibn|d43-ibn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ibn/archive/master.zip|d43-ibn.zip]]
+
+**Recent Changes**
+{{changes>ns = ibn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ibn|Ethnologue data]]
+
